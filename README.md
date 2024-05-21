@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm Otite🙌, a Python Developer, Business Consultant and Cloud Engineer with experience in AWS EC2, Kineses, RDS, general AWS services and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative innovations and problem solving.❤✌
+Hi, I'm Otite🙌, a  Cloud Engineer and Python Developer with experience in AWS EC2, Kineses, RDS, general AWS services and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative innovations and problem solving.❤✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -44,9 +44,9 @@ Hi, I'm Otite🙌, a Python Developer, Business Consultant and Cloud Engineer wi
 
 
 **Community**
-- Google Developer Group Bengaluru
+- Google Developer Group 
 - HackClub NMIT
-- Tensorflow Community Bengaluru
+- Tensorflow Community 
 - Girlscript Foundation
 - Coding Ninja
 
