@@ -47,7 +47,6 @@ Hi, I'm Otite🙌, a  Cloud Engineer, Business Consultant and Python Developer w
 - Google Developer Group 
 - HackClub NMIT
 - Tensorflow Community 
-- Girlscript Foundation
 - Coding Ninja
 
 **Languages and Tools:**
