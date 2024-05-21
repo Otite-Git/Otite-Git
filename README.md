@@ -32,7 +32,7 @@ Hi, I'm Otite🙌, a  Cloud Engineer and Python Developer with experience in AWS
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently a Business Consultant at the 4OC.
-- 💼 I'm also an entrepreneur and developer of www.merneithcollection.com 
+- 💼 I'm also the founder and developer of www.merneithcollection.com 
 - 🌱 I’m currently learning more about, Kubernetes, Terraform and Docker.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
