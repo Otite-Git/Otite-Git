@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm Otite🙌, a  Cloud Engineer, Business Consultant and Python Developer with experience in AWS EC2, Kineses, RDS, general AWS services and an overall Cloud Enthusiast. Apart from that I love getting involved in Creative innovations and problem solving.❤✌
+Hi, I'm Otite. A Tech enthusiast with experience in Python development, Cloud Engineering and Architecture using AWS services such as EC2, Kineses, RDS, general AWS services. Apart from that I love getting involved in Creative innovations and problem solving.✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
@@ -34,9 +34,8 @@ Hi, I'm Otite🙌, a  Cloud Engineer, Business Consultant and Python Developer w
 - 🔭 I’m currently a Business Consultant at the 4OC.
 - 💼 I'm also the founder and developer of www.merneithcollection.com 
 - 🌱 I’m currently learning more about, Kubernetes, Terraform and Docker.
-- 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: I'm on LinkedIn Just enter my Otite Egbeniyoko 😉 
+- 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 😉 
 - ⚡ [AWS Cloud  Project](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
 - 📝 [Python Portfolio](https://github.com/Otite-Git/FinalCapstone-Hyperion-Dev-Certification-Projects-.git)
 
