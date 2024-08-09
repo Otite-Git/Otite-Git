@@ -1,5 +1,5 @@
 # About Me
-### Hello World 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)
+### Hi 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)
 
 <br/>
 
@@ -26,8 +26,11 @@
 Hi, I'm Otite. A Tech enthusiast with experience in Python Development, Cloud Engineering and Architecture using AWS services such as EC2, Kineses, RDS, general AWS services. Apart from that I like getting involved in creative innovations and problem solving.✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyMTAxNjEsIm5iZiI6MTcyMzIwOTg2MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzktMGRiMzIyOTAtYzE5My00YjMyLTk1ZGMtNDEzY2U5ZTQ0NmE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA5VDEzMjQyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiM2Q5NDZkODQ3OGQ1MzY5YTY1NmM3ZmQwYmQ0MzAwYTU5ZDI4NWE3NWRiMjNkM2U5MmE5ZDEzODQ4MDZjNzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jDHpEX3ZTbUCuVbRLV6gblFcHp9hSW-Jsw-3cY7_O0Y" />
 
+
+
+https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
 
 **Talking about Personal Stuffs:**
 
