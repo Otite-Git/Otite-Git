@@ -43,7 +43,7 @@ https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
 - ⚡ AWS Cloud Projects:
   -  [Host Worpress using AWS](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
   -  [Host Dynamic Web App using Docker & AWS](https://github.com/Otite-Git/Host-a-Dynamic-Web-App-on-AWS-With-Docker-Amzon-ECR-and-Amazon-ECS.git)
-  -  Watch this space many more lcoud project to come! 🔋
+  -  Watch this space many more Cloud project to come! 🔋
 
 
 
