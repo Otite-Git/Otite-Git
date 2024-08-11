@@ -43,6 +43,7 @@ Hi, I'm Otite. A Tech enthusiast with experience in Python Development, Cloud En
 - ⚡ AWS Cloud Projects:
   -  [Host Worpress using AWS](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
   -  [Host Dynamic Web App using Docker & AWS](https://github.com/Otite-Git/Host-a-Dynamic-Web-App-on-AWS-With-Docker-Amzon-ECR-and-Amazon-ECS.git)
+  -  [Host a Static Website on AWS S3 Bucket with Terraform](https://github.com/Otite-Git/-Host-a-Static-Website-on-AWS-S3-Bucket-With-Terraform.git)
   -  Watch this space many more Cloud project to come! 🔋
 
 
