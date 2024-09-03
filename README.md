@@ -34,8 +34,8 @@ Hi, I'm Otite. A Tech enthusiast with experience in Python Development, Cloud De
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently a Business Consultant at the 4OC.
-- 💼 I'm also the founder and developer of www.merneithcollection.com 
+- 🔭 I’m an AWS Subject cloud expert.
+- 💼 I'm also a developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 😉 
