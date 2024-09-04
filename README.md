@@ -44,8 +44,8 @@ Hi, I'm Otite. A Tech enthusiast with experience in Python Development, Cloud De
 -  [Host Worpress using AWS](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
 -  [Host Dynamic Web App using Docker & AWS](https://github.com/Otite-Git/Host-a-Dynamic-Web-App-on-AWS-With-Docker-Amzon-ECR-and-Amazon-ECS.git)
 -  [Host a Static Website on AWS S3 Bucket with Terraform](https://github.com/Otite-Git/-Host-a-Static-Website-on-AWS-S3-Bucket-With-Terraform.git)
--  [Terraform Script automation to install HTML Website with AWS Codebuild and AWS S3 CI/CD](https://github.com/Otite-Git/Cloud-Security-Project-using-AWS-IAM.git)
 -  [Cloud-Security-Project-using-AWS-IAM ](https://github.com/Otite-Git/CI-CD-Project-using-AWS-CodeBuild--and-S3-for-Terraform-Script-Automation.git)
+-  [Terraform Script automation to install HTML Website with AWS Codebuild and AWS S3 CI/CD](https://github.com/Otite-Git/Cloud-Security-Project-using-AWS-IAM.git)
 
   -  Watch this space many more Cloud project to come! 🔋
 
