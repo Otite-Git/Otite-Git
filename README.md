@@ -34,7 +34,7 @@ Hi, I'm Otite. A Tech enthusiast with experience in Python Development, Cloud De
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m an AWS Subject cloud expert.
+- 🔭 I’m an AWS Learner and and Subject Matter Expert.
 - 💼 I'm also a developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.✌
@@ -46,7 +46,6 @@ Hi, I'm Otite. A Tech enthusiast with experience in Python Development, Cloud De
 -  [Host a Static Website on AWS S3 Bucket with Terraform](https://github.com/Otite-Git/-Host-a-Static-Website-on-AWS-S3-Bucket-With-Terraform.git)
 -  [Cloud-Security-Project-using-AWS-IAM ](https://github.com/Otite-Git/CI-CD-Project-using-AWS-CodeBuild--and-S3-for-Terraform-Script-Automation.git)
 -  [Terraform Script automation to install HTML Website with AWS Codebuild and AWS S3 CI/CD](https://github.com/Otite-Git/Cloud-Security-Project-using-AWS-IAM.git)
-
   -  Watch this space many more Cloud project to come! 🔋
 
 
