@@ -37,7 +37,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Engineering, Solutions
 
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m an AWS Learner and and Subject Matter Expert.
 - 💼 I'm also a developer in Programming Language. 
