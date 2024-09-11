@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm Otite. A tech enthusiast with experience in Cloud Engineering, Solutions Architecture, DevOps and Python Programming. I have designed developed and scaled solutions using AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.✌
+Hi, I'm Otite. A tech enthusiast with experience in Cloud Engineering, Solutions Architecture, Solution Design and Python Programming. I have designed developed and scaled solutions using AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.✌
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />_
