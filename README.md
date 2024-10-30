@@ -53,7 +53,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 -  [Cloud Security Project using AWS IAM](https://github.com/Otite-Git/Cloud-Security-Project-using-AWS-IAM.git)
 -  [Deploying AWS Infrastructure with Terraform](https://github.com/Otite-Git/Deploying-AWS-Infrastructure-with-Terraform)
 -  [Visualise Netflix Data using AWS QuickSight](https://github.com/Otite-Git/Visualise-Netflix-Data-using-AWS-QuickSight)
-  -  Watch this space many more Cloud project to come! 🔋
+  -  Watch this space many more Cloud projects to come! 🔋
 
 
 
