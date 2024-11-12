@@ -24,7 +24,7 @@
 
 <br />
 
-Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud Engineering, Devops, Solution Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.✌
+ A Cloud Expert developer with experience in Cloud Architecture, Cloud Engineering, Devops, Solution Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
 
 
 
@@ -43,7 +43,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 - 🔭 I’m an AWS and Cloud Subject Matter Expert.
 - 💼 I'm also a developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
-- 💬 Ask me about anything , Would love to answer them.✌
+- 💬 Ask me about anything , Would love to answer them.<!--✌-->
 - 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 
 - 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)
 - ⚡ My AWS Cloud Developer:
