@@ -23,7 +23,7 @@
 
 <br />
 
- A Cloud Expert developer with experience in Cloud Architecture, Cloud Engineering, Devops, Solution Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
+ A Cloud SME with experience in Cloud Architecture, Cloud Engineering, Devops, Solution Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
 
 
 
