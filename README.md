@@ -43,7 +43,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 - 💼 I'm also a developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 😉 
+- 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 
 - 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)
 - ⚡ AWS Cloud Projects:
 -  [Host Worpress using AWS Services](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
@@ -55,6 +55,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 -  [Visualise Netflix Data using AWS QuickSight](https://github.com/Otite-Git/Visualise-Netflix-Data-using-AWS-QuickSight)
   -  Watch this space many more Cloud projects to come! 🔋
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />_
 
 
 
@@ -63,6 +64,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 - Daily.Dev
 - W J Peace Cyber Brew
 - NextWork
+
 
 **Languages and Tools:**
 
