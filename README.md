@@ -36,7 +36,8 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />_
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" /> -->
+
 **Talking about Personal Stuff:**
 
 - 🔭 I’m an AWS and Cloud Subject Matter Expert.
