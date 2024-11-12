@@ -36,7 +36,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 
 
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />_
 **Talking about Personal Stuff:**
 
 - 🔭 I’m an AWS and Cloud Subject Matter Expert.
@@ -45,7 +45,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 
 - 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)
-- ⚡ AWS Cloud Projects:
+- ⚡ My AWS Cloud Developer:
 -  [Host Worpress using AWS Services](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
 -  [Host Dynamic Web App using Docker & AWS](https://github.com/Otite-Git/Host-a-Dynamic-Web-App-on-AWS-With-Docker-Amzon-ECR-and-Amazon-ECS.git)
 -  [Host a Static Website on AWS S3 Bucket with Terraform](https://github.com/Otite-Git/-Host-a-Static-Website-on-AWS-S3-Bucket-With-Terraform.git)
@@ -55,7 +55,7 @@ Hi, I'm Otite. A tech enthusiast with experience in Cloud Architecture, Cloud En
 -  [Visualise Netflix Data using AWS QuickSight](https://github.com/Otite-Git/Visualise-Netflix-Data-using-AWS-QuickSight)
   -  Watch this space many more Cloud projects to come! 🔋
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />_
+
 
 
 
