@@ -44,8 +44,10 @@
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.<!--✌-->
 - 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 
-- 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)
-- ⚡ My AWS Cloud Developer:
+<!--- 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)-->
+
+**Talking about Personal Stuff:**
+<!---- ⚡ My AWS Cloud Projects:-->
 -  [Host Worpress using AWS Services](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
 -  [Host Dynamic Web App using Docker & AWS](https://github.com/Otite-Git/Host-a-Dynamic-Web-App-on-AWS-With-Docker-Amzon-ECR-and-Amazon-ECS.git)
 -  [Host a Static Website on AWS S3 Bucket with Terraform](https://github.com/Otite-Git/-Host-a-Static-Website-on-AWS-S3-Bucket-With-Terraform.git)
