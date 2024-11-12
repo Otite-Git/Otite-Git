@@ -1,9 +1,8 @@
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/192dce07-2cf1-4545-aaf9-1be84dc15e19">
 
-### Hi 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)
+<!--### Hi 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)-->
 
 <br/>
-
 
 <a href="">
 <img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
