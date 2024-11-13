@@ -44,9 +44,9 @@
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.<!--✌-->
 - 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 
-- 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)
+<!--- 📝 [Python Project Portfolio](https://github.com/Otite-Git/Python-Language-Projects.git)-->
 
-**⚡ My AWS Cloud Projects::**
+**⚡ My AWS Cloud Projects:**
 
 -  [Host Worpress using AWS Services](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git)
 -  [Host Dynamic Web App using Docker & AWS](https://github.com/Otite-Git/Host-a-Dynamic-Web-App-on-AWS-With-Docker-Amzon-ECR-and-Amazon-ECS.git)
@@ -55,7 +55,15 @@
 -  [Cloud Security Project using AWS IAM](https://github.com/Otite-Git/Cloud-Security-Project-using-AWS-IAM.git)
 -  [Deploying AWS Infrastructure with Terraform](https://github.com/Otite-Git/Deploying-AWS-Infrastructure-with-Terraform)
 -  [Visualise Netflix Data using AWS QuickSight](https://github.com/Otite-Git/Visualise-Netflix-Data-using-AWS-QuickSight)
-  -  Watch this space many more Cloud projects to come! 🔋
+-  Watch this space many more Cloud projects to come! 🔋
+
+**⚡ My Python Projects:**
+-  [Personal Daily Workout Routine Program](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Personal%20Daily%20Workout%20Routine%20Program)
+-  [Task Management System](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Task%20Management%20System)
+-  [Finance Calculator](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Finance%20Calculator)
+-  [CareerCrafter](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/CareerCrafter)
+-  [Award](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Award)
+-  [Age-Quiz](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Age-Quiz)
 
 
 
