@@ -23,7 +23,7 @@
 
 <br />
 
- A Cloud SME with experience in Solution Architecture, Cloud Engineering, Cloud Development, Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
+ A Cloud SME with experience in Solution Architecture, Technical Business Analysis, Cloud Development, Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
 
 
 
