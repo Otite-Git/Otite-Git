@@ -1,4 +1,4 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/192dce07-2cf1-4545-aaf9-1be84dc15e19">
+<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/f0fe50e9-ced2-4292-9c64-ff12e8278630" />
 
 <!--### Hi 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)-->
 
@@ -23,7 +23,7 @@
 
 <br />
 
- A Cloud SME with experience in Solution Architecture, Technical Business Analysis, Cloud Development, Design and Python Programming Language. I have designed developed and scaled solutions using Python and AWS services such as EC2, Kineses, RDS, Terraform, Docker and general AWS services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
+ A software and cloud engineering professional. I have designed, developed and scaled solutions using programming langauge, AWS services  such as Amazon API Gateway EC2, Cloud Formation, AWS CodeBuild AWS Kineses, RDS, Terraform and Docker Containerisation services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
 
 
 
@@ -39,7 +39,7 @@
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m an AWS and Cloud Subject Matter Expert.
+- 🔭 I’m an software Engineer and AWS Subject Matter Expert.
 - 💼 I'm also a developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.<!--✌-->
@@ -57,7 +57,7 @@
 -  [Visualise Netflix Data using AWS QuickSight](https://github.com/Otite-Git/Visualise-Netflix-Data-using-AWS-QuickSight)
 -  Watch this space many more Cloud projects to come! 🔋
 
-**⚡ My Python Projects:**
+**⚡ My Coding Language Projects:**
 -  [Personal Daily Workout Routine Program](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Personal%20Daily%20Workout%20Routine%20Program)
 -  [Task Management System](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Task%20Management%20System)
 -  [Finance Calculator](https://github.com/Otite-Git/Python-Projects/tree/452d8cfe35c4f3d5b2a83fc6a0d38728d79f95bb/Finance%20Calculator)
