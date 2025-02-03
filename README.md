@@ -39,7 +39,7 @@
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m an software Engineer and AWS Subject Matter Expert.
+- 🔭 I’m a software, cloud engineer and a AWS Subject Matter Expert.
 - 💼 I'm also a developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.<!--✌-->
