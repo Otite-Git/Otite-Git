@@ -1,4 +1,5 @@
-<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/f0fe50e9-ced2-4292-9c64-ff12e8278630" />
+<img width="1834" alt="Make your README (1)" src="https://github.com/user-attachments/assets/252fc9b1-343c-4364-872b-374940dd1f5a" />
+
 
 <!--### Hi 👋 It's [Otite!](https://Otite-Git.github.io/MyPortfolio/)-->
 
@@ -23,7 +24,7 @@
 
 <br />
 
- A software and cloud engineering professional. I have designed, developed and scaled solutions using programming langauge, AWS services  such as Amazon API Gateway EC2, Cloud Formation, AWS CodeBuild AWS Kineses, RDS, Terraform and Docker Containerisation services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
+ A software and cloud professional. I have designed, developed and scaled solutions using programming langauge, AWS services  such as Amazon API Gateway EC2, Cloud Formation, AWS CodeBuild AWS Kineses, RDS, Terraform and Docker Containerisation services. Apart from that I like getting involved in creative innovations, solutioning and problem solving.<!--✌-->
 
 
 
@@ -39,8 +40,8 @@
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m a software, cloud engineer and a AWS Subject Matter Expert.
-- 💼 I'm also a developer in Programming Language. 
+- 🔭 I’m an Amazon Web Service Subject Matter Expert.
+- 💼 I'm also a Developer in Programming Language. 
 - 🌱 I enjoy learning about various tools, experimenting and piloting them.
 - 💬 Ask me about anything , Would love to answer them.<!--✌-->
 - 📫 How to reach me: I'm on LinkedIn Just enter my name Otite Egbeniyoko 
